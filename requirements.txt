@@ -1,0 +1,4 @@
+jupyterlab==4.2.2
+pyspark==3.5.5
+spark==0.2.1
+Python==3.12.4

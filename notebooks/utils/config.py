@@ -2,14 +2,14 @@
 from pathlib import Path
 
 # S3 paths or local paths for data files
-BUSINESS_DATA_PATH = ""
-REVIEW_DATA_PATH = ""
+BUSINESS_DATA_PATH = "../datasets/yelp_academic_dataset_business.json"
+REVIEW_DATA_PATH = "../datasets/yelp_academic_dataset_review.json"
 OUTPUT_BUSINESS_PATH = ""
 OUTPUT_REVIEW_PATH = ""
 YELP_RESTAURANT = ""
 
-PHILADELPHIA = ""
-USER = ""
+PHILADELPHIA = "../datasets/philadelphia.json"
+USER = "../datasets/yelp_academic_dataset_user.json"
 
 # Spark
-APP = ""
+APP = "C:\spark"

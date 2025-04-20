@@ -12,6 +12,7 @@ env
 
 # Ignore datasets folder
 datasets
+sourcedata
 
 # Ignore output files
 output

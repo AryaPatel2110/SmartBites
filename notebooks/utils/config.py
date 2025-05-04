@@ -10,4 +10,4 @@ PHILADELPHIA = "../datasets/philadelphia.json"
 USER = "../datasets/user.json"
 
 # Spark
-APP = "c:\spark"
+APP = "D:\Aditya\Graduate Materials\Spring 2026\Big Data\Project\spark"
